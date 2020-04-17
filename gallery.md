@@ -8,3 +8,4 @@ menu:
     weight: 2
 
 ---
+\[powr-social-feed id="fe561feb_1587142114"\]
