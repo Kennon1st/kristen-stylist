@@ -25,4 +25,5 @@ fields:
     required: true
 pages:
 - about.md
+- gallery.md
 - style-guide.md
