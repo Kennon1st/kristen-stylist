@@ -3,7 +3,7 @@ title: Stackbit Fresh Theme
 baseurl: "/"
 permalink: "/:title/"
 layout_style: overflow
-palette: green
+palette: violet
 header:
   title: Kristen Lentz
   tagline: Professional Stylist
