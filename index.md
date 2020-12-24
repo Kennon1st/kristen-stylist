@@ -29,7 +29,7 @@ sections:
   - label: View Blog
     url: blog/index.html
   component: posts_block.html
-  num_posts_displayed: 4
+  num_posts_displayed: 2
 layout: home
 menu:
   main:
